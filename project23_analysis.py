@@ -217,6 +217,9 @@ print("\nMonthly Trends:\n", monthly_trends.to_string(index=False))
 print("\nSample Shipment Objects:\n", sample_objects)
 
 # Export deliverables to outputs/
+import os
+
+os.makedirs("outputs", exist_ok=True)
 df_clean.to_csv("outputs/cleaned_delivery_data.csv", index=False)
 method_comparison.to_csv("outputs/shipping_method_comparison.csv", index=False)
 partner_ranking.to_csv("outputs/delivery_partner_ranking.csv", index=False)
