@@ -1,0 +1,13 @@
+Metric,Value
+Raw Records,913.0
+Duplicate Shipment_IDs Removed,13.0
+Unique Clean Shipments,900.0
+Delivered Shipments,737.0
+Overall Delivery Success Rate (%),81.89
+Mean Delivery Days (NumPy),8.07
+Median Delivery Days (NumPy),8.0
+Std Dev Delivery Days (NumPy),4.26
+IQR (Q3 - Q1),7.0
+IQR Upper Fence (Days),22.5
+IQR Outlier Shipments Count,0.0
+Unique Delivery Partners,5.0

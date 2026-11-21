@@ -1,0 +1,292 @@
+Shipment_ID,Order_Date,Delivery_Date,Shipping_Method,Delivery_Partner,Shipping_Cost,Delivery_Status,Origin_City,Destination_City,Delivery_Days,Delay_Status,Order_Month
+SH000003,2025-01-21,2025-02-02,Same Day,Partner B,193.69,In Transit,Mumbai,Hyderabad,12.0,Highly Delayed,2025-01
+SH000004,2026-06-23,2026-07-04,Express,Partner D,256.78,Delivered,Hyderabad,Chennai,11.0,Highly Delayed,2026-06
+SH000005,2026-03-02,2026-03-13,Economy,Partner B,150.84,In Transit,Bengaluru,Delhi,11.0,Highly Delayed,2026-03
+SH000012,2025-09-23,2025-10-08,Express,Partner E,218.42,Delivered,Chennai,Bengaluru,15.0,Highly Delayed,2025-09
+SH000013,2025-10-01,2025-10-14,Same Day,Partner E,308.17,In Transit,Mumbai,Pune,13.0,Highly Delayed,2025-10
+SH000014,2025-11-14,2025-11-25,Same Day,Partner E,438.15,Delivered,Chennai,Pune,11.0,Highly Delayed,2025-11
+SH000016,2025-07-17,2025-07-30,Economy,Partner A,520.55,Returned,Bengaluru,Hyderabad,13.0,Highly Delayed,2025-07
+SH000019,2025-07-11,2025-07-22,Same Day,Partner E,269.96,Delivered,Hyderabad,Mumbai,11.0,Highly Delayed,2025-07
+SH000024,2025-11-26,2025-12-08,Express,Partner B,342.8,Delivered,Mumbai,Pune,12.0,Highly Delayed,2025-11
+SH000025,2026-04-15,2026-04-30,Standard,Partner C,455.54,In Transit,Chennai,Hyderabad,15.0,Highly Delayed,2026-04
+SH000029,2026-02-09,2026-02-23,Same Day,Partner C,535.16,Delivered,Bengaluru,Mumbai,14.0,Highly Delayed,2026-02
+SH000032,2026-03-15,2026-03-30,Economy,Partner D,526.67,Delivered,Delhi,Chennai,15.0,Highly Delayed,2026-03
+SH000041,2025-12-29,2026-01-09,Standard,Partner D,243.71,In Transit,Chennai,Chennai,11.0,Highly Delayed,2025-12
+SH000044,2026-06-18,2026-07-03,Same Day,Partner E,519.2,Delivered,Chennai,Jaipur,15.0,Highly Delayed,2026-06
+SH000050,2025-12-17,2026-01-01,Same Day,Partner C,268.63,Delivered,Mumbai,Pune,15.0,Highly Delayed,2025-12
+SH000052,2026-01-22,2026-02-02,Express,Partner B,569.74,Delivered,Mumbai,Hyderabad,11.0,Highly Delayed,2026-01
+SH000053,2026-03-23,2026-04-04,Economy,Partner E,233.4,Delivered,Chennai,Mumbai,12.0,Highly Delayed,2026-03
+SH000059,2026-01-30,2026-02-11,Economy,Partner E,215.71,Returned,Chennai,Chennai,12.0,Highly Delayed,2026-01
+SH000062,2025-07-12,2025-07-24,Same Day,Partner C,383.04,Returned,Hyderabad,Chennai,12.0,Highly Delayed,2025-07
+SH000067,2026-06-18,2026-07-01,Express,Partner B,361.52,Delivered,Bengaluru,Delhi,13.0,Highly Delayed,2026-06
+SH000069,2026-09-03,2026-09-18,Express,Partner D,506.47,Delivered,Bengaluru,Bengaluru,15.0,Highly Delayed,2026-09
+SH000070,2026-03-29,2026-04-12,Standard,Partner D,542.15,Delivered,Bengaluru,Delhi,14.0,Highly Delayed,2026-03
+SH000076,2025-08-29,2025-09-11,Same Day,Partner B,312.78,Delivered,Bengaluru,Jaipur,13.0,Highly Delayed,2025-08
+SH000079,2026-07-21,2026-08-01,Economy,Partner C,588.33,Delivered,Chennai,Hyderabad,11.0,Highly Delayed,2026-07
+SH000080,2025-04-27,2025-05-11,Economy,Partner C,474.54,Failed,Bengaluru,Chennai,14.0,Highly Delayed,2025-04
+SH000082,2026-07-01,2026-07-12,Express,Partner D,156.01,Returned,Delhi,Bengaluru,11.0,Highly Delayed,2026-07
+SH000086,2026-03-06,2026-03-21,Standard,Partner A,439.97,Delivered,Bengaluru,Delhi,15.0,Highly Delayed,2026-03
+SH000087,2025-05-13,2025-05-28,Standard,Partner B,341.59,Failed,Hyderabad,Jaipur,15.0,Highly Delayed,2025-05
+SH000088,2025-10-29,2025-11-11,Economy,Partner C,426.75,Delivered,Bengaluru,Chennai,13.0,Highly Delayed,2025-10
+SH000092,2025-07-18,2025-07-31,Economy,Partner C,582.53,Delivered,Mumbai,Chennai,13.0,Highly Delayed,2025-07
+SH000093,2025-08-21,2025-09-05,Express,Partner D,361.52,Delivered,Delhi,Hyderabad,15.0,Highly Delayed,2025-08
+SH000096,2025-03-06,2025-03-20,Same Day,Partner D,376.56,Delivered,Chennai,Hyderabad,14.0,Highly Delayed,2025-03
+SH000097,2026-06-16,2026-06-29,Standard,Partner E,595.28,Delivered,Bengaluru,Bengaluru,13.0,Highly Delayed,2026-06
+SH000100,2026-05-21,2026-06-02,Same Day,Partner D,329.06,Returned,Chennai,Chennai,12.0,Highly Delayed,2026-05
+SH000102,2025-09-24,2025-10-07,Economy,Partner A,149.07,Delivered,Delhi,Jaipur,13.0,Highly Delayed,2025-09
+SH000104,2026-01-16,2026-01-28,Same Day,Partner D,264.09,Delivered,Chennai,Delhi,12.0,Highly Delayed,2026-01
+SH000105,2025-03-31,2025-04-11,Express,Partner D,155.75,Delivered,Delhi,Jaipur,11.0,Highly Delayed,2025-03
+SH000110,2025-08-10,2025-08-24,Standard,Partner C,415.45,In Transit,Chennai,Bengaluru,14.0,Highly Delayed,2025-08
+SH000111,2026-03-30,2026-04-11,Same Day,Partner A,191.81,Delivered,Mumbai,Hyderabad,12.0,Highly Delayed,2026-03
+SH000112,2025-05-07,2025-05-22,Express,Partner D,575.99,Delivered,Mumbai,Chennai,15.0,Highly Delayed,2025-05
+SH000114,2025-08-25,2025-09-06,Express,Partner A,543.67,Delivered,Chennai,Pune,12.0,Highly Delayed,2025-08
+SH000118,2026-02-26,2026-03-11,Economy,Partner A,578.06,Delivered,Delhi,Chennai,13.0,Highly Delayed,2026-02
+SH000122,2025-04-19,2025-05-01,Economy,Partner A,53.12,In Transit,Mumbai,Mumbai,12.0,Highly Delayed,2025-04
+SH000123,2025-06-24,2025-07-06,Express,Partner B,295.1,Delivered,Delhi,Mumbai,12.0,Highly Delayed,2025-06
+SH000125,2025-07-28,2025-08-09,Same Day,Partner B,557.82,Delivered,Bengaluru,Jaipur,12.0,Highly Delayed,2025-07
+SH000126,2026-07-20,2026-08-03,Same Day,Partner E,39.17,Delivered,Chennai,Chennai,14.0,Highly Delayed,2026-07
+SH000129,2025-01-25,2025-02-08,Standard,Partner C,436.4,Delivered,Mumbai,Hyderabad,14.0,Highly Delayed,2025-01
+SH000131,2025-02-13,2025-02-28,Standard,Partner A,514.44,Delivered,Chennai,Delhi,15.0,Highly Delayed,2025-02
+SH000132,2025-02-01,2025-02-14,Express,Partner D,562.64,Delivered,Hyderabad,Chennai,13.0,Highly Delayed,2025-02
+SH000137,2026-08-31,2026-09-11,Economy,Partner D,106.71,Delivered,Chennai,Pune,11.0,Highly Delayed,2026-08
+SH000138,2025-10-20,2025-11-02,Standard,Partner C,316.68,Delivered,Bengaluru,Jaipur,13.0,Highly Delayed,2025-10
+SH000141,2026-06-18,2026-07-01,Economy,Partner E,504.91,Delivered,Bengaluru,Chennai,13.0,Highly Delayed,2026-06
+SH000144,2025-09-27,2025-10-10,Standard,Partner E,419.5,Delivered,Delhi,Mumbai,13.0,Highly Delayed,2025-09
+SH000145,2025-12-16,2025-12-29,Standard,Partner A,522.94,Delivered,Chennai,Delhi,13.0,Highly Delayed,2025-12
+SH000146,2025-09-26,2025-10-10,Standard,Partner B,414.71,Delivered,Chennai,Chennai,14.0,Highly Delayed,2025-09
+SH000147,2026-08-02,2026-08-16,Express,Partner E,105.8,Failed,Chennai,Bengaluru,14.0,Highly Delayed,2026-08
+SH000151,2026-05-27,2026-06-11,Standard,Partner C,565.94,Delivered,Hyderabad,Mumbai,15.0,Highly Delayed,2026-05
+SH000154,2025-09-28,2025-10-13,Standard,Partner C,572.41,Delivered,Bengaluru,Delhi,15.0,Highly Delayed,2025-09
+SH000155,2026-01-20,2026-02-04,Standard,Partner B,335.36,Delivered,Delhi,Pune,15.0,Highly Delayed,2026-01
+SH000159,2025-06-03,2025-06-16,Express,Partner D,361.52,Delivered,Mumbai,Mumbai,13.0,Highly Delayed,2025-06
+SH000160,2025-11-07,2025-11-21,Economy,Partner D,539.2,Delivered,Mumbai,Mumbai,14.0,Highly Delayed,2025-11
+SH000162,2025-08-12,2025-08-23,Economy,Partner E,451.83,Returned,Chennai,Chennai,11.0,Highly Delayed,2025-08
+SH000164,2026-01-01,2026-01-12,Same Day,Partner C,271.39,Delivered,Chennai,Delhi,11.0,Highly Delayed,2026-01
+SH000171,2026-04-05,2026-04-20,Same Day,Partner B,176.06,Delivered,Delhi,Jaipur,15.0,Highly Delayed,2026-04
+SH000178,2025-10-17,2025-10-31,Standard,Partner E,83.84,Delivered,Hyderabad,Delhi,14.0,Highly Delayed,2025-10
+SH000180,2025-12-04,2025-12-15,Economy,Partner B,135.41,Delivered,Mumbai,Hyderabad,11.0,Highly Delayed,2025-12
+SH000182,2026-08-05,2026-08-17,Standard,Partner E,302.66,Delivered,Chennai,Chennai,12.0,Highly Delayed,2026-08
+SH000184,2026-07-25,2026-08-06,Standard,Partner C,213.26,Delivered,Chennai,Jaipur,12.0,Highly Delayed,2026-07
+SH000200,2025-12-05,2025-12-20,Economy,Partner D,378.77,Delivered,Hyderabad,Mumbai,15.0,Highly Delayed,2025-12
+SH000201,2025-10-23,2025-11-05,Same Day,Partner A,228.71,Delivered,Chennai,Chennai,13.0,Highly Delayed,2025-10
+SH000210,2026-03-27,2026-04-11,Economy,Partner D,259.03,Delivered,Delhi,Delhi,15.0,Highly Delayed,2026-03
+SH000213,2026-06-28,2026-07-11,Same Day,Partner E,435.69,Delivered,Delhi,Jaipur,13.0,Highly Delayed,2026-06
+SH000214,2026-02-17,2026-03-02,Express,Partner C,218.7,Delivered,Hyderabad,Pune,13.0,Highly Delayed,2026-02
+SH000217,2026-10-03,2026-10-17,Express,Partner A,583.52,Delivered,Bengaluru,Pune,14.0,Highly Delayed,2026-10
+SH000219,2025-09-04,2025-09-19,Standard,Partner B,515.79,Delivered,Hyderabad,Hyderabad,15.0,Highly Delayed,2025-09
+SH000224,2026-02-16,2026-03-02,Standard,Partner B,427.94,Delivered,Bengaluru,Jaipur,14.0,Highly Delayed,2026-02
+SH000229,2026-01-20,2026-02-02,Standard,Partner E,218.97,Delivered,Chennai,Pune,13.0,Highly Delayed,2026-01
+SH000236,2026-05-11,2026-05-24,Same Day,Partner C,164.04,Delivered,Hyderabad,Pune,13.0,Highly Delayed,2026-05
+SH000238,2026-03-19,2026-03-30,Express,Partner C,198.16,Delivered,Hyderabad,Bengaluru,11.0,Highly Delayed,2026-03
+SH000243,2025-07-03,2025-07-15,Same Day,Partner E,387.06,Delivered,Mumbai,Delhi,12.0,Highly Delayed,2025-07
+SH000245,2025-03-06,2025-03-20,Economy,Partner B,439.7,Delivered,Bengaluru,Hyderabad,14.0,Highly Delayed,2025-03
+SH000253,2026-04-01,2026-04-12,Economy,Partner D,231.08,Delivered,Bengaluru,Delhi,11.0,Highly Delayed,2026-04
+SH000254,2026-10-22,2026-11-06,Express,Partner A,400.18,Failed,Delhi,Jaipur,15.0,Highly Delayed,2026-10
+SH000257,2025-06-14,2025-06-28,Express,Partner B,196.62,Delivered,Hyderabad,Delhi,14.0,Highly Delayed,2025-06
+SH000259,2025-04-05,2025-04-16,Economy,Partner B,598.07,Delivered,Bengaluru,Bengaluru,11.0,Highly Delayed,2025-04
+SH000261,2025-11-14,2025-11-27,Standard,Partner C,119.91,In Transit,Chennai,Mumbai,13.0,Highly Delayed,2025-11
+SH000265,2025-02-19,2025-03-06,Standard,Partner B,43.03,Delivered,Hyderabad,Mumbai,15.0,Highly Delayed,2025-02
+SH000270,2025-03-14,2025-03-26,Same Day,Partner B,142.56,Delivered,Bengaluru,Mumbai,12.0,Highly Delayed,2025-03
+SH000273,2026-01-06,2026-01-21,Same Day,Partner A,235.97,Delivered,Chennai,Jaipur,15.0,Highly Delayed,2026-01
+SH000274,2026-01-06,2026-01-21,Economy,Partner B,364.92,In Transit,Hyderabad,Bengaluru,15.0,Highly Delayed,2026-01
+SH000275,2025-04-25,2025-05-09,Economy,Partner A,414.97,Delivered,Mumbai,Hyderabad,14.0,Highly Delayed,2025-04
+SH000277,2026-06-24,2026-07-08,Standard,Partner D,335.36,Delivered,Delhi,Chennai,14.0,Highly Delayed,2026-06
+SH000279,2026-04-24,2026-05-09,Standard,Partner E,476.65,Delivered,Bengaluru,Jaipur,15.0,Highly Delayed,2026-04
+SH000281,2026-10-13,2026-10-27,Economy,Partner B,336.58,Delivered,Delhi,Pune,14.0,Highly Delayed,2026-10
+SH000283,2026-06-14,2026-06-28,Economy,Partner E,507.78,Delivered,Hyderabad,Delhi,14.0,Highly Delayed,2026-06
+SH000287,2026-02-09,2026-02-22,Economy,Partner E,338.18,Delivered,Delhi,Pune,13.0,Highly Delayed,2026-02
+SH000288,2025-05-19,2025-06-03,Express,Partner A,282.16,Delivered,Hyderabad,Chennai,15.0,Highly Delayed,2025-05
+SH000300,2026-10-07,2026-10-21,Same Day,Partner D,566.14,Delivered,Mumbai,Chennai,14.0,Highly Delayed,2026-10
+SH000305,2026-05-01,2026-05-12,Economy,Partner E,89.95,Delivered,Bengaluru,Hyderabad,11.0,Highly Delayed,2026-05
+SH000310,2026-10-08,2026-10-20,Economy,Partner C,151.39,Delivered,Mumbai,Jaipur,12.0,Highly Delayed,2026-10
+SH000311,2026-10-27,2026-11-07,Economy,Partner D,247.9,Delivered,Chennai,Bengaluru,11.0,Highly Delayed,2026-10
+SH000312,2025-12-07,2025-12-18,Express,Partner C,389.46,Delivered,Hyderabad,Bengaluru,11.0,Highly Delayed,2025-12
+SH000315,2026-03-14,2026-03-28,Same Day,Partner B,104.7,Returned,Hyderabad,Hyderabad,14.0,Highly Delayed,2026-03
+SH000316,2026-07-27,2026-08-09,Express,Partner A,361.52,Delivered,Delhi,Delhi,13.0,Highly Delayed,2026-07
+SH000317,2026-09-01,2026-09-16,Economy,Partner D,438.86,Delivered,Mumbai,Mumbai,15.0,Highly Delayed,2026-09
+SH000318,2026-09-20,2026-10-03,Same Day,Partner C,34.58,Delivered,Hyderabad,Chennai,13.0,Highly Delayed,2026-09
+SH000319,2025-04-21,2025-05-05,Standard,Partner A,400.68,Delivered,Hyderabad,Delhi,14.0,Highly Delayed,2025-04
+SH000325,2026-05-26,2026-06-10,Economy,Partner E,332.44,Delivered,Bengaluru,Mumbai,15.0,Highly Delayed,2026-05
+SH000336,2025-01-07,2025-01-19,Standard,Partner D,335.36,Delivered,Hyderabad,Chennai,12.0,Highly Delayed,2025-01
+SH000343,2026-03-24,2026-04-07,Same Day,Partner B,248.12,Delivered,Bengaluru,Pune,14.0,Highly Delayed,2026-03
+SH000344,2026-08-19,2026-09-01,Express,Partner E,400.61,Returned,Bengaluru,Bengaluru,13.0,Highly Delayed,2026-08
+SH000347,2025-02-22,2025-03-06,Economy,Partner A,535.72,Delivered,Hyderabad,Mumbai,12.0,Highly Delayed,2025-02
+SH000350,2025-12-02,2025-12-15,Economy,Partner D,244.69,Delivered,Bengaluru,Mumbai,13.0,Highly Delayed,2025-12
+SH000353,2025-07-03,2025-07-16,Economy,Partner A,369.99,Delivered,Delhi,Jaipur,13.0,Highly Delayed,2025-07
+SH000354,2025-01-26,2025-02-09,Standard,Partner C,463.72,Delivered,Delhi,Chennai,14.0,Highly Delayed,2025-01
+SH000355,2025-03-12,2025-03-23,Express,Partner E,509.07,Delivered,Delhi,Mumbai,11.0,Highly Delayed,2025-03
+SH000356,2025-04-18,2025-05-03,Same Day,Partner B,540.29,Delivered,Chennai,Chennai,15.0,Highly Delayed,2025-04
+SH000360,2025-03-11,2025-03-24,Economy,Partner B,94.73,Delivered,Hyderabad,Pune,13.0,Highly Delayed,2025-03
+SH000362,2025-01-29,2025-02-11,Express,Partner D,177.72,Delivered,Hyderabad,Jaipur,13.0,Highly Delayed,2025-01
+SH000375,2025-11-15,2025-11-28,Same Day,Partner B,44.06,Delivered,Mumbai,Mumbai,13.0,Highly Delayed,2025-11
+SH000380,2025-08-07,2025-08-21,Standard,Partner E,76.02,Delivered,Bengaluru,Jaipur,14.0,Highly Delayed,2025-08
+SH000381,2026-03-11,2026-03-23,Economy,Partner C,139.22,Returned,Bengaluru,Mumbai,12.0,Highly Delayed,2026-03
+SH000383,2025-05-01,2025-05-15,Express,Partner C,494.77,Delivered,Mumbai,Jaipur,14.0,Highly Delayed,2025-05
+SH000384,2026-08-16,2026-08-27,Standard,Partner C,239.16,Delivered,Chennai,Jaipur,11.0,Highly Delayed,2026-08
+SH000385,2025-11-20,2025-12-01,Same Day,Partner D,62.14,Delivered,Chennai,Chennai,11.0,Highly Delayed,2025-11
+SH000389,2025-09-08,2025-09-19,Economy,Partner B,296.85,Delivered,Chennai,Chennai,11.0,Highly Delayed,2025-09
+SH000391,2025-06-13,2025-06-26,Express,Partner D,539.33,Delivered,Bengaluru,Hyderabad,13.0,Highly Delayed,2025-06
+SH000393,2026-07-11,2026-07-24,Same Day,Partner D,510.13,Delivered,Chennai,Delhi,13.0,Highly Delayed,2026-07
+SH000397,2025-12-07,2025-12-19,Same Day,Partner B,404.53,Delivered,Bengaluru,Chennai,12.0,Highly Delayed,2025-12
+SH000400,2025-07-03,2025-07-16,Economy,Partner E,528.79,Returned,Delhi,Delhi,13.0,Highly Delayed,2025-07
+SH000406,2025-03-13,2025-03-28,Standard,Partner A,258.29,Delivered,Bengaluru,Delhi,15.0,Highly Delayed,2025-03
+SH000410,2025-04-20,2025-05-01,Express,Partner A,207.13,Delivered,Hyderabad,Delhi,11.0,Highly Delayed,2025-04
+SH000415,2025-09-12,2025-09-24,Standard,Partner C,209.93,Delivered,Chennai,Hyderabad,12.0,Highly Delayed,2025-09
+SH000418,2026-03-02,2026-03-15,Express,Partner D,452.57,Delivered,Chennai,Bengaluru,13.0,Highly Delayed,2026-03
+SH000419,2025-05-07,2025-05-22,Standard,Partner D,554.94,Delivered,Chennai,Hyderabad,15.0,Highly Delayed,2025-05
+SH000422,2026-03-22,2026-04-02,Standard,Partner A,125.44,In Transit,Delhi,Chennai,11.0,Highly Delayed,2026-03
+SH000425,2025-11-24,2025-12-07,Express,Partner E,525.9,Delivered,Hyderabad,Bengaluru,13.0,Highly Delayed,2025-11
+SH000429,2026-06-30,2026-07-12,Economy,Partner A,415.84,Delivered,Mumbai,Pune,12.0,Highly Delayed,2026-06
+SH000431,2026-03-18,2026-03-29,Economy,Partner E,142.4,Delivered,Mumbai,Hyderabad,11.0,Highly Delayed,2026-03
+SH000434,2025-01-25,2025-02-05,Express,Partner D,521.98,Delivered,Chennai,Pune,11.0,Highly Delayed,2025-01
+SH000435,2025-07-03,2025-07-14,Economy,Partner E,294.94,Delivered,Delhi,Bengaluru,11.0,Highly Delayed,2025-07
+SH000436,2025-10-13,2025-10-26,Same Day,Partner A,176.47,Delivered,Bengaluru,Mumbai,13.0,Highly Delayed,2025-10
+SH000440,2025-05-02,2025-05-14,Standard,Partner D,485.48,Delivered,Hyderabad,Jaipur,12.0,Highly Delayed,2025-05
+SH000442,2026-04-20,2026-05-03,Same Day,Partner C,180.38,Delivered,Bengaluru,Bengaluru,13.0,Highly Delayed,2026-04
+SH000443,2026-08-30,2026-09-14,Express,Partner A,277.7,Delivered,Delhi,Delhi,15.0,Highly Delayed,2026-08
+SH000444,2026-06-23,2026-07-04,Economy,Partner D,231.87,Delivered,Chennai,Hyderabad,11.0,Highly Delayed,2026-06
+SH000445,2025-11-29,2025-12-14,Standard,Partner D,110.76,Delivered,Chennai,Chennai,15.0,Highly Delayed,2025-11
+SH000446,2025-04-17,2025-04-28,Same Day,Partner C,369.19,Delivered,Delhi,Jaipur,11.0,Highly Delayed,2025-04
+SH000448,2025-11-18,2025-12-03,Same Day,Partner A,597.78,Failed,Delhi,Delhi,15.0,Highly Delayed,2025-11
+SH000449,2026-05-22,2026-06-03,Express,Partner B,357.42,Delivered,Mumbai,Jaipur,12.0,Highly Delayed,2026-05
+SH000450,2025-08-07,2025-08-21,Standard,Partner D,96.67,Delivered,Chennai,Bengaluru,14.0,Highly Delayed,2025-08
+SH000459,2026-03-10,2026-03-25,Express,Partner E,496.23,Delivered,Delhi,Mumbai,15.0,Highly Delayed,2026-03
+SH000461,2026-07-26,2026-08-10,Express,Partner C,203.66,Delivered,Hyderabad,Chennai,15.0,Highly Delayed,2026-07
+SH000465,2026-08-17,2026-08-31,Standard,Partner E,79.97,Delivered,Bengaluru,Jaipur,14.0,Highly Delayed,2026-08
+SH000467,2025-04-21,2025-05-06,Express,Partner C,461.32,Delivered,Chennai,Bengaluru,15.0,Highly Delayed,2025-04
+SH000468,2026-06-13,2026-06-25,Economy,Partner B,53.22,Delivered,Bengaluru,Delhi,12.0,Highly Delayed,2026-06
+SH000469,2026-05-26,2026-06-09,Economy,Partner A,53.03,Delivered,Delhi,Mumbai,14.0,Highly Delayed,2026-05
+SH000470,2026-09-05,2026-09-18,Standard,Partner D,430.13,Delivered,Bengaluru,Mumbai,13.0,Highly Delayed,2026-09
+SH000471,2026-04-15,2026-04-26,Standard,Partner C,315.88,Delivered,Mumbai,Pune,11.0,Highly Delayed,2026-04
+SH000477,2025-03-14,2025-03-26,Same Day,Partner E,130.96,Delivered,Chennai,Bengaluru,12.0,Highly Delayed,2025-03
+SH000480,2026-09-30,2026-10-15,Economy,Partner E,539.21,Delivered,Hyderabad,Pune,15.0,Highly Delayed,2026-09
+SH000483,2025-08-26,2025-09-09,Same Day,Partner D,308.85,Failed,Mumbai,Jaipur,14.0,Highly Delayed,2025-08
+SH000488,2025-03-05,2025-03-16,Express,Partner D,590.7,Failed,Delhi,Jaipur,11.0,Highly Delayed,2025-03
+SH000493,2025-03-21,2025-04-03,Express,Partner E,146.8,Delivered,Mumbai,Mumbai,13.0,Highly Delayed,2025-03
+SH000497,2025-08-14,2025-08-28,Standard,Partner A,381.87,Delivered,Delhi,Delhi,14.0,Highly Delayed,2025-08
+SH000506,2025-04-20,2025-05-03,Express,Partner C,567.93,Returned,Mumbai,Pune,13.0,Highly Delayed,2025-04
+SH000507,2025-09-24,2025-10-09,Standard,Partner C,505.83,Delivered,Mumbai,Delhi,15.0,Highly Delayed,2025-09
+SH000509,2026-07-10,2026-07-25,Express,Partner C,193.29,Delivered,Delhi,Bengaluru,15.0,Highly Delayed,2026-07
+SH000512,2026-06-24,2026-07-07,Economy,Partner D,547.73,Delivered,Delhi,Mumbai,13.0,Highly Delayed,2026-06
+SH000515,2025-06-15,2025-06-30,Same Day,Partner E,470.18,Delivered,Hyderabad,Delhi,15.0,Highly Delayed,2025-06
+SH000516,2026-03-01,2026-03-15,Express,Partner A,387.79,Delivered,Delhi,Mumbai,14.0,Highly Delayed,2026-03
+SH000518,2026-05-22,2026-06-02,Same Day,Partner B,551.08,Delivered,Hyderabad,Delhi,11.0,Highly Delayed,2026-05
+SH000521,2026-01-04,2026-01-15,Express,Partner C,48.6,Returned,Delhi,Delhi,11.0,Highly Delayed,2026-01
+SH000523,2026-10-15,2026-10-29,Standard,Partner B,265.32,Delivered,Bengaluru,Jaipur,14.0,Highly Delayed,2026-10
+SH000526,2025-04-25,2025-05-07,Same Day,Partner D,249.95,Delivered,Mumbai,Delhi,12.0,Highly Delayed,2025-04
+SH000530,2025-12-23,2026-01-06,Economy,Partner A,109.34,Delivered,Hyderabad,Jaipur,14.0,Highly Delayed,2025-12
+SH000532,2026-05-29,2026-06-09,Express,Partner B,532.65,Delivered,Hyderabad,Bengaluru,11.0,Highly Delayed,2026-05
+SH000535,2026-07-23,2026-08-03,Express,Partner E,512.73,Delivered,Hyderabad,Hyderabad,11.0,Highly Delayed,2026-07
+SH000537,2026-03-21,2026-04-05,Economy,Partner E,237.12,Delivered,Hyderabad,Chennai,15.0,Highly Delayed,2026-03
+SH000538,2026-09-28,2026-10-13,Same Day,Partner B,228.69,Delivered,Chennai,Hyderabad,15.0,Highly Delayed,2026-09
+SH000540,2026-04-20,2026-05-03,Standard,Partner B,518.8,Delivered,Chennai,Pune,13.0,Highly Delayed,2026-04
+SH000542,2025-01-12,2025-01-26,Economy,Partner E,190.93,Delivered,Mumbai,Chennai,14.0,Highly Delayed,2025-01
+SH000544,2025-04-11,2025-04-24,Standard,Partner B,169.61,Delivered,Chennai,Jaipur,13.0,Highly Delayed,2025-04
+SH000547,2025-06-20,2025-07-03,Economy,Partner D,426.21,Delivered,Chennai,Bengaluru,13.0,Highly Delayed,2025-06
+SH000552,2025-10-24,2025-11-08,Standard,Partner B,328.98,Delivered,Delhi,Bengaluru,15.0,Highly Delayed,2025-10
+SH000554,2026-09-24,2026-10-09,Economy,Partner C,264.76,Delivered,Mumbai,Chennai,15.0,Highly Delayed,2026-09
+SH000566,2025-02-03,2025-02-17,Standard,Partner E,328.77,Delivered,Chennai,Chennai,14.0,Highly Delayed,2025-02
+SH000575,2025-08-30,2025-09-12,Standard,Partner C,115.43,Delivered,Bengaluru,Jaipur,13.0,Highly Delayed,2025-08
+SH000578,2026-05-27,2026-06-08,Standard,Partner B,414.01,Delivered,Hyderabad,Pune,12.0,Highly Delayed,2026-05
+SH000580,2025-12-18,2026-01-01,Standard,Partner A,194.73,Returned,Mumbai,Hyderabad,14.0,Highly Delayed,2025-12
+SH000581,2025-01-22,2025-02-04,Express,Partner A,400.94,Delivered,Chennai,Chennai,13.0,Highly Delayed,2025-01
+SH000582,2025-06-22,2025-07-06,Same Day,Partner A,445.95,Delivered,Chennai,Mumbai,14.0,Highly Delayed,2025-06
+SH000583,2025-08-14,2025-08-27,Same Day,Partner C,554.38,Delivered,Chennai,Bengaluru,13.0,Highly Delayed,2025-08
+SH000584,2025-03-05,2025-03-16,Standard,Partner E,224.61,Delivered,Hyderabad,Mumbai,11.0,Highly Delayed,2025-03
+SH000588,2025-05-27,2025-06-10,Same Day,Partner B,195.58,Delivered,Bengaluru,Chennai,14.0,Highly Delayed,2025-05
+SH000590,2026-07-05,2026-07-16,Express,Partner D,539.41,Delivered,Bengaluru,Bengaluru,11.0,Highly Delayed,2026-07
+SH000603,2026-06-10,2026-06-25,Standard,Partner E,412.59,Delivered,Bengaluru,Mumbai,15.0,Highly Delayed,2026-06
+SH000604,2025-11-16,2025-11-28,Same Day,Partner C,266.37,Delivered,Delhi,Hyderabad,12.0,Highly Delayed,2025-11
+SH000605,2026-05-06,2026-05-20,Same Day,Partner C,268.84,Delivered,Hyderabad,Mumbai,14.0,Highly Delayed,2026-05
+SH000611,2026-01-06,2026-01-19,Express,Partner A,460.83,Returned,Chennai,Chennai,13.0,Highly Delayed,2026-01
+SH000617,2026-03-22,2026-04-03,Express,Partner D,124.52,Delivered,Mumbai,Delhi,12.0,Highly Delayed,2026-03
+SH000619,2025-04-28,2025-05-13,Same Day,Partner B,307.99,Delivered,Chennai,Chennai,15.0,Highly Delayed,2025-04
+SH000621,2025-10-09,2025-10-20,Standard,Partner B,369.73,In Transit,Bengaluru,Hyderabad,11.0,Highly Delayed,2025-10
+SH000622,2025-07-06,2025-07-21,Economy,Partner B,266.82,Delivered,Chennai,Mumbai,15.0,Highly Delayed,2025-07
+SH000631,2026-04-09,2026-04-21,Express,Partner D,530.69,Delivered,Chennai,Jaipur,12.0,Highly Delayed,2026-04
+SH000634,2025-07-10,2025-07-21,Express,Partner C,335.11,In Transit,Delhi,Jaipur,11.0,Highly Delayed,2025-07
+SH000637,2025-09-20,2025-10-02,Same Day,Partner B,351.27,In Transit,Mumbai,Chennai,12.0,Highly Delayed,2025-09
+SH000640,2026-10-07,2026-10-19,Economy,Partner C,177.97,Delivered,Delhi,Mumbai,12.0,Highly Delayed,2026-10
+SH000641,2025-08-11,2025-08-23,Same Day,Partner E,579.8,In Transit,Mumbai,Chennai,12.0,Highly Delayed,2025-08
+SH000647,2026-08-03,2026-08-18,Same Day,Partner C,533.87,Delivered,Delhi,Delhi,15.0,Highly Delayed,2026-08
+SH000648,2026-07-21,2026-08-05,Express,Partner D,500.22,Delivered,Mumbai,Mumbai,15.0,Highly Delayed,2026-07
+SH000649,2026-05-07,2026-05-20,Standard,Partner A,138.34,Delivered,Bengaluru,Pune,13.0,Highly Delayed,2026-05
+SH000655,2026-07-09,2026-07-24,Express,Partner C,468.67,Delivered,Bengaluru,Mumbai,15.0,Highly Delayed,2026-07
+SH000657,2026-08-12,2026-08-23,Standard,Partner D,447.99,Returned,Chennai,Jaipur,11.0,Highly Delayed,2026-08
+SH000659,2025-10-23,2025-11-07,Same Day,Partner A,434.31,Delivered,Hyderabad,Mumbai,15.0,Highly Delayed,2025-10
+SH000663,2026-10-16,2026-10-31,Standard,Partner A,331.96,Delivered,Bengaluru,Hyderabad,15.0,Highly Delayed,2026-10
+SH000664,2026-08-03,2026-08-15,Economy,Partner E,64.63,Delivered,Mumbai,Bengaluru,12.0,Highly Delayed,2026-08
+SH000665,2025-11-14,2025-11-29,Standard,Partner A,397.85,Failed,Bengaluru,Jaipur,15.0,Highly Delayed,2025-11
+SH000670,2026-07-21,2026-08-05,Express,Partner A,594.97,Delivered,Mumbai,Mumbai,15.0,Highly Delayed,2026-07
+SH000677,2025-10-27,2025-11-09,Standard,Partner B,526.87,Delivered,Hyderabad,Bengaluru,13.0,Highly Delayed,2025-10
+SH000681,2025-06-02,2025-06-16,Same Day,Partner D,137.11,Delivered,Mumbai,Chennai,14.0,Highly Delayed,2025-06
+SH000682,2025-07-20,2025-08-01,Same Day,Partner C,147.2,In Transit,Bengaluru,Bengaluru,12.0,Highly Delayed,2025-07
+SH000687,2026-08-20,2026-09-04,Economy,Partner A,357.92,In Transit,Hyderabad,Chennai,15.0,Highly Delayed,2026-08
+SH000688,2026-07-26,2026-08-10,Standard,Partner D,34.46,In Transit,Bengaluru,Delhi,15.0,Highly Delayed,2026-07
+SH000691,2025-12-02,2025-12-15,Same Day,Partner D,257.06,Delivered,Bengaluru,Jaipur,13.0,Highly Delayed,2025-12
+SH000693,2025-10-09,2025-10-20,Same Day,Partner B,55.77,Delivered,Bengaluru,Mumbai,11.0,Highly Delayed,2025-10
+SH000694,2026-01-22,2026-02-05,Express,Partner D,542.05,In Transit,Delhi,Bengaluru,14.0,Highly Delayed,2026-01
+SH000695,2026-06-19,2026-07-03,Economy,Partner E,546.07,In Transit,Chennai,Delhi,14.0,Highly Delayed,2026-06
+SH000698,2025-09-09,2025-09-23,Economy,Partner A,254.38,Delivered,Bengaluru,Hyderabad,14.0,Highly Delayed,2025-09
+SH000708,2026-01-17,2026-01-28,Same Day,Partner C,95.48,Delivered,Delhi,Jaipur,11.0,Highly Delayed,2026-01
+SH000709,2025-07-07,2025-07-18,Express,Partner B,361.52,Delivered,Delhi,Hyderabad,11.0,Highly Delayed,2025-07
+SH000711,2025-06-19,2025-07-02,Same Day,Partner A,411.51,Delivered,Hyderabad,Bengaluru,13.0,Highly Delayed,2025-06
+SH000715,2025-09-16,2025-09-30,Same Day,Partner B,172.79,In Transit,Mumbai,Bengaluru,14.0,Highly Delayed,2025-09
+SH000717,2025-04-26,2025-05-11,Express,Partner E,79.99,Delivered,Mumbai,Hyderabad,15.0,Highly Delayed,2025-04
+SH000731,2025-07-29,2025-08-09,Express,Partner C,193.52,Delivered,Hyderabad,Pune,11.0,Highly Delayed,2025-07
+SH000736,2026-01-28,2026-02-11,Standard,Partner C,470.12,Delivered,Chennai,Pune,14.0,Highly Delayed,2026-01
+SH000740,2025-09-24,2025-10-07,Express,Partner A,184.66,Delivered,Hyderabad,Hyderabad,13.0,Highly Delayed,2025-09
+SH000744,2026-07-31,2026-08-11,Same Day,Partner D,531.53,Delivered,Chennai,Hyderabad,11.0,Highly Delayed,2026-07
+SH000745,2025-04-11,2025-04-23,Economy,Partner C,428.15,Delivered,Bengaluru,Delhi,12.0,Highly Delayed,2025-04
+SH000749,2025-01-03,2025-01-16,Express,Partner B,227.17,Delivered,Hyderabad,Chennai,13.0,Highly Delayed,2025-01
+SH000751,2026-08-24,2026-09-08,Economy,Partner C,183.96,Delivered,Bengaluru,Delhi,15.0,Highly Delayed,2026-08
+SH000752,2025-08-31,2025-09-13,Standard,Partner B,543.56,Delivered,Hyderabad,Chennai,13.0,Highly Delayed,2025-08
+SH000753,2025-08-22,2025-09-05,Standard,Partner B,502.79,Delivered,Hyderabad,Pune,14.0,Highly Delayed,2025-08
+SH000754,2026-04-16,2026-04-27,Same Day,Partner C,32.56,Delivered,Bengaluru,Jaipur,11.0,Highly Delayed,2026-04
+SH000758,2025-06-22,2025-07-06,Standard,Partner C,70.63,In Transit,Mumbai,Bengaluru,14.0,Highly Delayed,2025-06
+SH000759,2025-05-13,2025-05-27,Express,Partner A,490.23,Delivered,Mumbai,Pune,14.0,Highly Delayed,2025-05
+SH000761,2025-11-30,2025-12-12,Economy,Partner A,190.52,Delivered,Mumbai,Delhi,12.0,Highly Delayed,2025-11
+SH000762,2026-04-30,2026-05-12,Standard,Partner D,454.03,Delivered,Chennai,Mumbai,12.0,Highly Delayed,2026-04
+SH000764,2026-06-11,2026-06-26,Express,Partner A,398.91,Delivered,Hyderabad,Pune,15.0,Highly Delayed,2026-06
+SH000766,2026-03-01,2026-03-16,Economy,Partner A,57.92,Delivered,Delhi,Jaipur,15.0,Highly Delayed,2026-03
+SH000770,2025-12-15,2025-12-28,Express,Partner E,260.61,In Transit,Chennai,Pune,13.0,Highly Delayed,2025-12
+SH000771,2025-02-12,2025-02-26,Standard,Partner E,350.9,Delivered,Hyderabad,Mumbai,14.0,Highly Delayed,2025-02
+SH000773,2026-10-26,2026-11-08,Express,Partner C,495.48,Delivered,Chennai,Bengaluru,13.0,Highly Delayed,2026-10
+SH000774,2025-03-13,2025-03-24,Same Day,Partner E,495.32,Delivered,Mumbai,Chennai,11.0,Highly Delayed,2025-03
+SH000783,2025-04-20,2025-05-02,Standard,Partner B,318.72,Delivered,Chennai,Hyderabad,12.0,Highly Delayed,2025-04
+SH000785,2026-01-13,2026-01-27,Same Day,Partner C,472.01,In Transit,Bengaluru,Mumbai,14.0,Highly Delayed,2026-01
+SH000796,2025-07-09,2025-07-20,Economy,Partner A,99.07,Delivered,Hyderabad,Mumbai,11.0,Highly Delayed,2025-07
+SH000797,2025-12-13,2025-12-24,Express,Partner A,90.91,Delivered,Chennai,Pune,11.0,Highly Delayed,2025-12
+SH000800,2025-06-30,2025-07-13,Express,Partner C,240.51,In Transit,Mumbai,Pune,13.0,Highly Delayed,2025-06
+SH000808,2025-10-13,2025-10-26,Standard,Partner E,213.7,Delivered,Chennai,Pune,13.0,Highly Delayed,2025-10
+SH000809,2025-04-23,2025-05-07,Standard,Partner D,500.31,Delivered,Delhi,Hyderabad,14.0,Highly Delayed,2025-04
+SH000811,2025-12-26,2026-01-10,Express,Partner D,182.57,Failed,Hyderabad,Chennai,15.0,Highly Delayed,2025-12
+SH000814,2026-03-20,2026-04-03,Economy,Partner A,524.33,Returned,Bengaluru,Chennai,14.0,Highly Delayed,2026-03
+SH000819,2026-07-12,2026-07-27,Standard,Partner A,454.1,Delivered,Hyderabad,Chennai,15.0,Highly Delayed,2026-07
+SH000821,2026-08-15,2026-08-27,Standard,Partner E,268.37,Delivered,Hyderabad,Delhi,12.0,Highly Delayed,2026-08
+SH000825,2026-10-04,2026-10-17,Economy,Partner B,583.51,Delivered,Hyderabad,Chennai,13.0,Highly Delayed,2026-10
+SH000828,2026-07-04,2026-07-18,Economy,Partner A,262.61,Delivered,Bengaluru,Hyderabad,14.0,Highly Delayed,2026-07
+SH000831,2025-07-27,2025-08-11,Express,Partner E,543.37,Delivered,Mumbai,Bengaluru,15.0,Highly Delayed,2025-07
+SH000833,2025-05-09,2025-05-23,Economy,Partner A,359.88,Delivered,Chennai,Bengaluru,14.0,Highly Delayed,2025-05
+SH000844,2025-11-14,2025-11-27,Standard,Partner A,197.11,Delivered,Chennai,Chennai,13.0,Highly Delayed,2025-11
+SH000846,2025-04-24,2025-05-06,Express,Partner E,388.52,Failed,Mumbai,Pune,12.0,Highly Delayed,2025-04
+SH000850,2025-07-02,2025-07-13,Express,Partner A,94.36,In Transit,Bengaluru,Bengaluru,11.0,Highly Delayed,2025-07
+SH000851,2026-07-06,2026-07-17,Same Day,Partner D,594.75,Delivered,Mumbai,Hyderabad,11.0,Highly Delayed,2026-07
+SH000852,2025-05-18,2025-05-31,Economy,Partner A,210.1,Delivered,Chennai,Hyderabad,13.0,Highly Delayed,2025-05
+SH000856,2025-05-22,2025-06-03,Express,Partner B,319.28,Delivered,Hyderabad,Jaipur,12.0,Highly Delayed,2025-05
+SH000860,2026-10-20,2026-11-03,Standard,Partner A,281.37,Delivered,Mumbai,Jaipur,14.0,Highly Delayed,2026-10
+SH000864,2025-01-23,2025-02-04,Economy,Partner D,118.13,Delivered,Delhi,Mumbai,12.0,Highly Delayed,2025-01
+SH000865,2026-10-18,2026-10-31,Same Day,Partner B,394.64,Delivered,Hyderabad,Mumbai,13.0,Highly Delayed,2026-10
+SH000869,2025-03-27,2025-04-07,Standard,Partner B,536.38,Failed,Hyderabad,Jaipur,11.0,Highly Delayed,2025-03
+SH000870,2026-08-06,2026-08-17,Same Day,Partner C,44.42,Delivered,Mumbai,Mumbai,11.0,Highly Delayed,2026-08
+SH000873,2025-05-30,2025-06-10,Same Day,Partner E,126.3,Delivered,Hyderabad,Delhi,11.0,Highly Delayed,2025-05
+SH000875,2026-04-16,2026-04-27,Standard,Partner C,450.17,Delivered,Hyderabad,Pune,11.0,Highly Delayed,2026-04
+SH000877,2026-02-28,2026-03-14,Express,Partner B,73.53,Delivered,Mumbai,Mumbai,14.0,Highly Delayed,2026-02
+SH000878,2025-06-27,2025-07-10,Economy,Partner E,426.18,Delivered,Mumbai,Chennai,13.0,Highly Delayed,2025-06
+SH000879,2026-05-07,2026-05-21,Express,Partner B,195.81,Delivered,Delhi,Mumbai,14.0,Highly Delayed,2026-05
+SH000884,2025-01-19,2025-02-01,Same Day,Partner D,520.33,Delivered,Mumbai,Mumbai,13.0,Highly Delayed,2025-01
+SH000886,2025-06-04,2025-06-15,Same Day,Partner A,204.88,Delivered,Delhi,Pune,11.0,Highly Delayed,2025-06
+SH000889,2025-11-08,2025-11-20,Economy,Partner C,146.15,In Transit,Chennai,Pune,12.0,Highly Delayed,2025-11
+SH000893,2025-10-16,2025-10-31,Economy,Partner B,538.92,In Transit,Bengaluru,Hyderabad,15.0,Highly Delayed,2025-10
+SH000896,2026-07-15,2026-07-27,Economy,Partner C,249.68,Delivered,Chennai,Jaipur,12.0,Highly Delayed,2026-07
+SH000898,2025-05-12,2025-05-27,Same Day,Partner B,316.6,Delivered,Chennai,Delhi,15.0,Highly Delayed,2025-05

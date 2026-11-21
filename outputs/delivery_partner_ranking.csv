@@ -1,0 +1,6 @@
+Delivery_Partner,Total_Shipments,Delivered_Shipments,Avg_Delivery_Days,Median_Delivery_Days,Avg_Shipping_Cost,Success_Rate_%,Rank_By_Volume,Rank_By_Speed
+Partner D,196,168,7.87,8.0,332.59,85.71,1,2
+Partner B,184,148,8.18,7.5,323.1,80.43,2,4
+Partner E,181,149,7.78,8.0,331.15,82.32,3,1
+Partner A,175,142,8.16,8.0,324.46,81.14,4,3
+Partner C,164,130,8.37,8.0,313.68,79.27,5,5

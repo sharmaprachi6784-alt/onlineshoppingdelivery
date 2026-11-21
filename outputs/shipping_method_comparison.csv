@@ -1,0 +1,5 @@
+Shipping_Method,Total_Shipments,Delivered,Failed,Returned,In_Transit,Avg_Delivery_Days,Avg_Shipping_Cost,Success_Rate_%
+Economy,211,171,11,14,15,8.04,309.83,81.04
+Express,238,202,9,13,14,8.06,341.34,84.87
+Same Day,225,186,7,14,18,8.02,314.77,82.67
+Standard,226,178,10,14,24,8.14,333.46,78.76

@@ -1,0 +1,11 @@
+Shipment_ID,Order_Date,Delivery_Date,Delivery_Days,Shipping_Method,Delivery_Partner,Delivery_Status,Origin_City,Destination_City,Shipping_Cost
+SH000448,2025-11-18,2025-12-03,15.0,Same Day,Partner A,Failed,Delhi,Delhi,597.78
+SH000670,2026-07-21,2026-08-05,15.0,Express,Partner A,Delivered,Mumbai,Mumbai,594.97
+SH000112,2025-05-07,2025-05-22,15.0,Express,Partner D,Delivered,Mumbai,Chennai,575.99
+SH000154,2025-09-28,2025-10-13,15.0,Standard,Partner C,Delivered,Bengaluru,Delhi,572.41
+SH000151,2026-05-27,2026-06-11,15.0,Standard,Partner C,Delivered,Hyderabad,Mumbai,565.94
+SH000419,2025-05-07,2025-05-22,15.0,Standard,Partner D,Delivered,Chennai,Hyderabad,554.94
+SH000831,2025-07-27,2025-08-11,15.0,Express,Partner E,Delivered,Mumbai,Bengaluru,543.37
+SH000356,2025-04-18,2025-05-03,15.0,Same Day,Partner B,Delivered,Chennai,Chennai,540.29
+SH000480,2026-09-30,2026-10-15,15.0,Economy,Partner E,Delivered,Hyderabad,Pune,539.21
+SH000893,2025-10-16,2025-10-31,15.0,Economy,Partner B,In Transit,Bengaluru,Hyderabad,538.92
